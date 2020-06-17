@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577330",
+      "name": "标星",
+      "font_class": "biaoxing",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "8763650",
+      "name": "绘画",
+      "font_class": "huihua",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "13751001",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
